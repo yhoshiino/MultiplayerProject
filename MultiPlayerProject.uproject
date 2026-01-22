@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1C329A54-4A58-F4E8-58EC-809E9D51D19A}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		}
+	]
+}
